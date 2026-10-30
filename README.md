@@ -32,12 +32,3 @@ npm audit --omit=dev
 ```
 
 Keep `.env`, personal data, dependencies, SQLite databases, and build output out of Git. Additional analytics require their own persisted source data and explicit metric definitions.
-
-
-## Screenshots
-
-### Dashboard Overview
-![Dashboard](docs/screenshots/01_dashboard.png)
-
-### Login Overview
-![Login](docs/screenshots/02_login.png)
