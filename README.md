@@ -2,6 +2,17 @@
 
 Admin-only dashboard for persisted user-account analytics: total accounts, date-filtered signups, verified signups, daily chart/table, CSV export. No seeded users or fabricated metrics. Dashboard and export return 403 to non-admins.
 
+## Screenshots
+
+| Tampilan | Preview |
+|---|---|
+| **Portal Autentikasi**<br>Halaman login aman dengan proteksi session dan otorisasi admin | ![Portal Autentikasi](docs/screenshots/01-login-screen.png) |
+| **Admin Analytics Dashboard**<br>Filter rentang tanggal, ringkasan total akun, dan rasio verifikasi | ![Admin Analytics Dashboard](docs/screenshots/02-analytics-dashboard.png) |
+| **Grafik Pendaftaran & Tabel Data**<br>Visualisasi grafik batang harian dan rincian tabel tabular | ![Grafik Pendaftaran & Tabel Data](docs/screenshots/03-signup-activity-chart.png) |
+| **Manajemen Profil Operator**<br>Pembaruan identitas operator, kata sandi, dan status keamanan | ![Manajemen Profil Operator](docs/screenshots/04-profile-settings.png) |
+
+---
+
 ## Setup (Windows)
 
 ```powershell
